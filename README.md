@@ -57,7 +57,7 @@ load_dotenv(find_dotenv())
 
 MCP server ka URL set karna:
 
-MCP_SERVER_URL = "http://localhost:8001/mcp/"
+MCP_SERVER_URL = "http://localhost:8000/mcp/"
 
 
 Gemini API client:
